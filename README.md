@@ -1,4 +1,4 @@
-# Propser Loan Data: A Tableau Journey
+# Prosper Loan Data: A Tableau Story
 Creating a Tableau story as part of the Udacity DAND programme
 
 First version of the story: [insert link here]
@@ -7,7 +7,7 @@ Final version of the story: [insert link here]
 
 # Summary
 
-Prosper is a peer to peer loan platform allowing people to borrow money from other individuals at certain rates, enabling them to bypass traditional banks and potentially making loans more affordable and accessible for thousands of people.
+Prosper is a peer-to-peer loan platform allowing people to borrow money from other individuals at certain rates, enabling them to bypass traditional banks and potentially making loans more affordable and accessible for thousands of people.
 
 There are over 110,000 observations in the data set with 81 variable covering such things as the original date of the loan, the amount of the loan, the APR, a credit score, geographical state information, debt to income ratio and many more
 
@@ -25,7 +25,10 @@ The final part of the story shows a bubble chart looking at the amount of monet 
 
 # Feedback
 
-Feedback here
+Feedback
+- please add a title page
+- remove the measure names from the legend on first page
+[insert more here]
 
 # Resources
 
