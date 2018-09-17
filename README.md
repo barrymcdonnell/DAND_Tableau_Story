@@ -29,4 +29,8 @@ Feedback here
 
 # Resources
 
+Data was downloaded from here - https://docs.google.com/document/d/1w7KhqotVi5eoKE3I_AZHbsxdr-NmcWsLTIiZrpxWx4w/pub?embedded=true
+The dataset used was the 'Loan data from Propser'
+
 ## Data Files
+[add files]
