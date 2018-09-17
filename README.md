@@ -25,12 +25,6 @@ The final part of the story shows a bubble chart looking at the amount of monet 
 
 # Feedback
 
-Feedback
-- please add a title page
-- remove the measure names from the legend on first page
-
-[insert more here]
-
 # Resources
 
 Data was downloaded from here - https://docs.google.com/document/d/1w7KhqotVi5eoKE3I_AZHbsxdr-NmcWsLTIiZrpxWx4w/pub?embedded=true
