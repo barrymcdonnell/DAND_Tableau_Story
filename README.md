@@ -1,9 +1,9 @@
 # Prosper Loan Data: A Tableau Story
 Creating a Tableau story as part of the Udacity DAND programme
 
-First version of the story: https://public.tableau.com/profile/barry.mcdonnell#!/vizhome/Udacity_DAND_Barry_McDonnell_Loans_v1/ProsperLoansv1
+First version of the story: https://public.tableau.com/profile/barry.mcdonnell#!/vizhome/Udacity_DAND_Barry_McDonnell_Loans_v1/ProsperLoansv1?publish=yes
 
-Final version of the story: [insert link here]
+Final version of the story: https://public.tableau.com/profile/barry.mcdonnell#!/vizhome/Tableau_Loans_Final/ProsperLoansFinal?publish=yes
 
 # Summary
 
